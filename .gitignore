@@ -1,5 +1,5 @@
 .DS_Store
 # Ignora cache
-*/.ipynb_checkpoints/*
+projeto-final/.ipynb_checkpoints/*.ipynb
 # Ignora arquivos .csv
 *.csv
